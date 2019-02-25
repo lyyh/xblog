@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vue-style-loader": "^4.1.2",
+    "webpack-hot-client": "^4.1.1"
+  }
+}
